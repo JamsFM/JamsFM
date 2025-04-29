@@ -8,9 +8,18 @@
 		
     **Description**:
     - Modernized data processing in various *Directory Maintenance* jobs by consolidating and migrating DataStage jobs to Python, significantly improving efficiency and *freeing up Developer time*. Also migrated an *Enrollment Channel ETL* process across three separate jobs, which involved extracting data from *834 CSV files*, applying complex business logic *transformations*, and *loading* the results into an *On-prem database* for use by an internal admin website.
-    - I actively participated in daily Scrums and led *Backlog Refinement* sessions using Jira. 
-    - I also shared *On-Call* responsibilities, including weekends and holidays, responding to production incidents via *Remedy tickets* and escalating issues as needed.
-    - I contributed to planning for major system upgrades, ensuring minimal disruption to job processing. Throughout the development lifecycle, I was involved in *design*, *development*, *test case* design, *documentation*, Jenkins *builds/deployments*, *scheduling*, *testing*, *production release*, and ongoing *monitoring* and *support*.
+   
+- Modernized and optimized *Directory Maintenance* jobs by consolidating and migrating DataStage jobs to Python, significantly improving processing efficiency, refining logs and result-emails for jobs, and reducing developer workload.			
+- Migrated a complex *Enrollment Channel ETL process* spanning three separate jobs, extracting data from *834 CSV files*, applying insurance enrollment business logic transformations, and loading the results into a database for internal administrative use.	
+- Actively participated in and led Agile methodologies like *Daily Scrums*, *Backlog Refinement* sessions, *Sprint Planning*, *Retrospective*, *Showcases/Demos*, and collaborated with cross-functional teams to drive Sprint goals.	
+- Took on *On-Call* responsibilities, including weekends and holidays, addressing production incidents via *Remedy tickets*, personally troubleshooting issues, and escalating problems as needed during my rotation.
+- Contributed to the planning and executing of major *On-prem System Upgrades*, ensuring minimal disruption to job processing and maintaining high system availability.
+- Played a key role throughout the development lifecycle, I was involved in *Design*, *Development*, *Test Case* Design, *Documentation*, Jenkins *Builds/Deployments*, *Scheduling*, *Testing*, *Production Release*, and ongoing *Monitoring* and *Support*.
+
+
+
+
+
 
 - 👀 I’m interested in obtaining a full-time position *Remotely* or *On-Site* in the state of Washington. *Hybrid* would also be appealing if, again, in Washington. 
   - **Job positions I could fill are:** <br />
